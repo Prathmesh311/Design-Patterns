@@ -1,4 +1,6 @@
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\service\UserPersistenceService.java
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\service\LoginService.java
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\controller\UserController.java
-D:\Udemy\Design Patterns Java\EclipseWorkspace\design_principles\src\main\java\com\company\encapsulation\entity\User.java
+/Users/prathmeshbhondave/Documents/ComputerScience/DesignPatterns/SOLID-Principles/Single-Responsibility/src/main/java/com/company/singleresp/UserValidator.java
+/Users/prathmeshbhondave/Documents/ComputerScience/DesignPatterns/SOLID-Principles/Single-Responsibility/src/main/java/com/company/singleresp/UserController.java
+/Users/prathmeshbhondave/Documents/ComputerScience/DesignPatterns/SOLID-Principles/Single-Responsibility/src/main/java/com/company/singleresp/Main.java
+/Users/prathmeshbhondave/Documents/ComputerScience/DesignPatterns/SOLID-Principles/Single-Responsibility/src/main/java/com/company/singleresp/User.java
+/Users/prathmeshbhondave/Documents/ComputerScience/DesignPatterns/SOLID-Principles/Single-Responsibility/src/main/java/com/company/singleresp/UserPersistenceService.java
+/Users/prathmeshbhondave/Documents/ComputerScience/DesignPatterns/SOLID-Principles/Single-Responsibility/src/main/java/com/company/singleresp/Store.java
