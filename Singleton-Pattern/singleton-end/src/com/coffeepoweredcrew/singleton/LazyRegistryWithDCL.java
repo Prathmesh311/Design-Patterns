@@ -13,7 +13,7 @@ public class LazyRegistryWithDCL {
 		
 	}
 	
-	private static LazyRegistryWithDCL Instance;
+	private static volatile LazyRegistryWithDCL Instance;
 	
 	public static LazyRegistryWithDCL getInstance() {
 		
