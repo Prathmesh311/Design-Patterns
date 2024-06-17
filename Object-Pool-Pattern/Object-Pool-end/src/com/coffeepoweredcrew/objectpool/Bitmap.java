@@ -4,7 +4,6 @@ package com.coffeepoweredcrew.objectpool;
 public class Bitmap implements Image {
 
     private Point2D location;
-
     private String name;
 
     public Bitmap(String name) {
@@ -31,5 +30,4 @@ public class Bitmap implements Image {
     	this.location = null;
     	System.out.println("Bitmap reset");
     }
-
 }
