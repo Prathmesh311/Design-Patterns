@@ -1,0 +1,6 @@
+Order Details Order #1001total: 35.84Items
+-----------------------
+Eggs : 22.5
+Milk : 4.35
+Bread : 8.99
+Order end
